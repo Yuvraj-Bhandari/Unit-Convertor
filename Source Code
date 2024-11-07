@@ -78,7 +78,7 @@ int main() {
         cout << "25. Hours to Seconds\n";
         cout << "26. Days to Hours\n";
         cout << "27. Exit\n";
-        cout << "Enter your choice (1-26 to select conversion, 27 to exit, if Greater value entered value will be erased): ";
+        cout << "Enter your choice (1-26 to select conversion, 27 to exit, if Greater value entered it will be erased): ";
         cin >> choice;
 
         // Validate the choice input
